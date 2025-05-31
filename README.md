@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&desc=Scroll%20down%20to%20get%20started&descAlign=65&descAlignY=65&descSize=20)
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=7A45E5&width=435&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a></h1>
+<h1><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=1F7D53&width=435&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a></h1>
 
 <p>MY TECH SKILLS</p>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
@@ -12,6 +12,20 @@
 <span><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
+
+<br><br>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true&theme=dark&title_color=1F7D53FF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true&title_color=1F7D53FF"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true" />
+</picture>
 
 <!--
 **chmsk3321/chmsk3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
