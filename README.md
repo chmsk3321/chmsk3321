@@ -11,6 +11,7 @@
 <span><img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 
 <!--
 **chmsk3321/chmsk3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
