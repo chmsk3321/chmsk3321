@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90)
 
 <h1>My GitHub</h1>
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
 **chmsk3321/chmsk3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
