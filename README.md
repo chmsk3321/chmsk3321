@@ -15,7 +15,7 @@
 
 <br><br>
 
-[![Ashutosh' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chmsk3321&theme=high-contrast&radius=20&hide_border=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chmsk3321&theme=high-contrast&radius=20&hide_border=true&height=400&line=1A5319&point=1A5319)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
