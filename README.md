@@ -15,6 +15,8 @@
 
 <br><br>
 
+[![Ashutosh' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chmsk3321&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
