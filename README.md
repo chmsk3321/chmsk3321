@@ -2,7 +2,7 @@
 
 <h1><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=1F7D53&width=435&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a></h1>
 
-<p>MY TECH SKILLS</p>
+<h3>🥇 MY TECH SKILLS 🛠️</h3>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></span>
