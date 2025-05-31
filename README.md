@@ -13,6 +13,8 @@
 <span><img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 <!--
