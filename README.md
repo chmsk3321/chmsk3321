@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&desc=Scroll%20down%20to%20get%20started&descAlign=65&descAlignY=65&descSize=20)
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&width=435&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a></h1>
+<h1><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&width=435&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a></h1>
 
 <p>MY TECH SKILLS</p>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
