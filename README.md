@@ -13,20 +13,6 @@
 <span><img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 
-<br><br>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true&theme=dark&title_color=1F7D53FF"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true&title_color=1F7D53FF"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=chmsk3321&show_icons=true" />
-</picture>
-
 <!--
 **chmsk3321/chmsk3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
