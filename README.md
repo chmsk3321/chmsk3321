@@ -8,7 +8,7 @@
 
 <!-- github status -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmsk3321&theme=nord_dark&exclude=html" 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmsk3321&theme=nord_dark&exclude=html,Hack" 
        style="width: 32%;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmsk3321&theme=nord_dark" 
        style="width: 66%;" />
