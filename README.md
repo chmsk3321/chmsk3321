@@ -6,6 +6,14 @@
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=1F7D53&lines=Introducing+my+GitHub!" alt="Typing SVG" /></a>
 </h1>
 
+<!-- github status -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmsk3321&theme=nord_dark&exclude=html" 
+       style="width: 32%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmsk3321&theme=nord_dark" 
+       style="width: 66%;" />
+</div>
+
 ---
 
 <!-- 📈 GitHub 활동 그래프 -->
