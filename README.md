@@ -1,5 +1,5 @@
 <!-- 🌊 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&desc=Scroll%20down%20to%20get%20started&descAlign=65&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&desc=chmsk3321's%20Github&descAlign=65&descAlignY=65&descSize=20" width="100%"/>
 
 <!-- ⌨️ 타이핑 애니메이션 -->
 <h1>
