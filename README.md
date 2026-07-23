@@ -1,14 +1,3 @@
-<!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text==_=&fontSize=80&desc=chmsk3321's%20Github&descAlign=80&descAlignY=60&descSize=20" width="100%"/>
-
-<!-- github status -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmsk3321&theme=github_dark&exclude=html,Hack"
-       style="width: 32%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmsk3321&theme=github_dark"
-       style="width: 66%;" />
-</div>
-
 ### -_-
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></span>
